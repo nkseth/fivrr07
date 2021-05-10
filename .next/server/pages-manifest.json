@@ -1,0 +1,14 @@
+{
+  "/Salesandsales": "pages/Salesandsales.html",
+  "/Scooterservice": "pages/Scooterservice.html",
+  "/TyreService": "pages/TyreService.html",
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/mot": "pages/mot.html",
+  "/vehicleRepairs": "pages/vehicleRepairs.html",
+  "/vehiclemaintenance": "pages/vehiclemaintenance.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
